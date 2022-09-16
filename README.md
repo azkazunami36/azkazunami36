@@ -6,3 +6,4 @@
 他にも編集したり作曲したりしてるけど、それはまた別の場所で...
 
 [YouTubeチャンネル！](https://www.youtube.com/channel/UCOBiNYsubLw-zAOqg74jUww)
+[かずなみのDiscordサーバー！](https://discord.gg/WEJGnEMhJJ)
