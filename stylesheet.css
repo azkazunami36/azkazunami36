@@ -60,9 +60,22 @@
 }
 
 .prof1 {
+    margin-top: 40px;
+    margin-left: 20px;
     width: 50%;
     height: 40%;
     padding: 20px;
-    font-size: 50px;
     color: #ffffff;
+}
+
+.p-name1 {
+    font-size: 50px;
+}
+
+.p-text1 {
+    border: 1px solid #000000aa;
+    padding: 0 5px;
+    background: rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(20px);
+    border-radius: 7.5px;
 }
