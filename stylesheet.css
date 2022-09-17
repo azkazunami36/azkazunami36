@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.header1 {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: rgba(255, 255, 255, 0.467);
+    backdrop-filter: blur(20px);
+    width: 100%;
+    height: 70px;
+    z-index: 20;
+}
+
+.button1 {
+    height: 80%;
+    background:rgba(255, 255, 255, 0.879);
+    backdrop-filter: blur(20px);
+    border-radius: 20px;
+    min-width: 120px;
+    margin: 0 5px;
+    overflow: hidden;
+}
+
+.button2 {
+    display: flex;
+    min-width: 140px;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.238);
+    padding-top: 80px;
+}
+
+.p-icon {
+    height: 30%;
+    object-fit: contain;
+    border-radius: 9999px;
+    backdrop-filter: blur(20px);
+    background: rgba(255, 255, 255, 0.467);
+}
+
+.prof1 {
+    width: 50%;
+    height: 40%;
+    padding: 20px;
+    font-size: 50px;
+    color: #ffffff;
+}
