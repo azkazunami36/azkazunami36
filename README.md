@@ -5,5 +5,5 @@
 
 他にも編集したり作曲したりしてるけど、それはまた別の場所で...
 
-[YouTubeチャンネル！](https://www.youtube.com/channel/UCOBiNYsubLw-zAOqg74jUww)
+[YouTubeチャンネル！](https://youtube.com/@azkazunami36)
 [かずなみのDiscordサーバー！](https://discord.gg/WEJGnEMhJJ)
