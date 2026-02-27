@@ -6,7 +6,9 @@ HTML、SCSS(CSS)、TypeScript(JavaScript)を中心にコードを書いていま
 ## 現在の活動内容
 現在は以下のプロジェクトを動かしています。
 - 音楽bot: Discord Botとして稼働。45サーバーが登録、毎日3サーバーほどアクティブに稼働中。2025年8月から現在にかけて継続的にバグ修正・機能追加を心がけています。
+  - リンク: [音楽botをDiscordサーバーに追加する](https://discord.com/oauth2/authorize?client_id=1028285721955553362&permissions=3264000&integration_type=0&scope=bot) [discordMusicBotリポジトリ](https://github.com/azkazunami36/discordMusicBot)
 - miharublog: 低頻度で更新中。あまりに執筆する時間がないため、暇な時間にUIを綺麗にする程度の改善しか行っておりません。
+  - リンク: [miharu-blogホスト用リポジトリ](https://github.com/azkazunami36/miharu-blog) [miharuServerContent元データリポジトリ](https://github.com/azkazunami36/miharu-blog)
 
 その他の活動については[今力を注いでいるプロジェクト](##今力を注いでいるプロジェクト)で閲覧可能です。
 
