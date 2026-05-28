@@ -1,10 +1,10 @@
 # 経歴・活動
-自己紹介となる概要です。
+自己紹介となる概要です。主に売りにしているポイントを記述しています。
 |名称|特徴|
 |-|-|
 |プログラミング歴|５年。HTML->CSS->JS->TS->Cの順に勉強。|
-|[音楽bot](https://github.com/azkazunami36/discordMusicBot)(2025)|2026年現在も運用し、Discord上で49サーバーが利用中。TypeScriptで作成。[音楽botをDiscordサーバーに追加する](https://discord.com/oauth2/authorize?client_id=1028285721955553362&permissions=3264000&integration_type=0&scope=bot)|
-|[みはるブログ](https://github.com/azkazunami36/miharu-blog)(2024)|[mdを静的に変換するツール](https://github.com/azkazunami36/miharuServerContent)を用いてGitHub Pagesで[公開中](https://miharublog.uk)。TypeScriptで作成|
+|サーバー運用 [音楽bot](https://github.com/azkazunami36/discordMusicBot)(2025)|2026年現在も運用し、Discord上で49サーバーが利用中。TypeScriptで作成。[音楽botをDiscordサーバーに追加する](https://discord.com/oauth2/authorize?client_id=1028285721955553362&permissions=3264000&integration_type=0&scope=bot)|
+|HTMLサイト [みはるブログ](https://github.com/azkazunami36/miharu-blog)(2024)|[mdを静的に変換するツール](https://github.com/azkazunami36/miharuServerContent)を用いてGitHub Pagesで[公開中](https://miharublog.uk)。TypeScriptで作成|
 |学歴|高卒認定合格・IT系専門学校１年生|
 |夢|音響計算システム(GPU)の自作、ミュージックプレイヤーの自作、サービスの自作など|
 
