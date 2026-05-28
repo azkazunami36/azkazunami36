@@ -26,6 +26,7 @@
 |C|独学で学習中。[音声圧縮ツール](https://github.com/azkazunami36/discordMusicBot/blob/376889da9a18ccb1aecb8df143e199def899dd1c/wasm/PCM16bitto/main.c)作成によりポインタ・数値処理・ビット演算・浮動小数の自作[*1]などを経験|
 |SQL・Java|学校で学習中(未熟)|
 |Swift|独学で学習中(未熟)|
+|C#|学習予定|
 
 *1: 形式は`[符号:1][指数:4][仮数:5]`。補数・左1が切り捨てできるなどに当時は気づかず、それらをしていない独自の浮動小数形式。
 
@@ -34,8 +35,12 @@
 |名称|特徴|
 |-|-|
 |VSCode・Node.js|常用中。Worker.js、Express.js、sharp、Discord.jsなど。|
+|Ubuntu|ServerやDesktopなどを利用。`screen`,`nano`,`ssh`,`VSCode Tunnel`などを利用|
+|Windows・macOS|それぞれXP・7・10・11、10.10~26まで経験。トラブルシューティングや通常機能、一部特殊機能を把握|
 |yt-dlp・FFmpeg|TypeScriptでラッパして利用|
-|Git・GitHub|マージや`.gitignore`などを利用。ブランチ運用・練習中|
+|MongoDB(2024)|一時期GridFSを利用するために利用|
+|Git・GitHub|マージや`.gitignore`などを利用。ブランチ運用練習中|
+|Eclipse・AWS・Google Cloud|学習中、予定|
 
 # 経験履歴の詳細
 私の経験を１年毎に記載しています。
