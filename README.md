@@ -56,7 +56,7 @@
 |試験名|点数|
 |-|-|
 |ITパスポート(2026-04)|85%|
-|[TypeScript技術認定試験](https://cbttesting.com/typescript-exambook/)(2026-05)|87.14%|
+|[CBT TypeScript技術認定試験](https://cbttesting.com/typescript/)(2026-05)|87.14%|
 |[応用情報技術者 過去問道場](https://www.ap-siken.com/apkakomon.php)(2026 04-28 から 05-28|51.1%|
 
 # その他
