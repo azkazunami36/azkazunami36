@@ -36,7 +36,7 @@
 |-|-|
 |VSCode・Node.js|常用中。Worker.js、Express.js、sharp、Discord.jsなど。|
 |Ubuntu|ServerやDesktopなどを利用。`screen`,`nano`,`ssh`,`VSCode Tunnel`などを利用|
-|Windows・macOS|それぞれXP・7・10・11、10.10~26まで経験。トラブルシューティングや通常機能、一部特殊機能を把握|
+|Windows・macOS|それぞれXP・7・10・11、10.10~26まで経験。トラブルシューティングや通常機能、一部特殊機能を把握。`Fusion Drive`,`DISM`,`BCD`など|
 |yt-dlp・FFmpeg|TypeScriptでラッパして利用|
 |MongoDB(2024)|一時期GridFSを利用するために利用|
 |Git・GitHub|マージや`.gitignore`などを利用。ブランチ運用練習中|
@@ -62,7 +62,7 @@
 |-|-|
 |ITパスポート(2026-04)|85%|
 |[CBT TypeScript技術認定試験](https://cbttesting.com/typescript/)(2026-05)|87.14%|
-|[応用情報技術者 過去問道場](https://www.ap-siken.com/apkakomon.php)(2026 04-28 から 05-28|51.1%|
+|[応用情報技術者 過去問道場](https://www.ap-siken.com/apkakomon.php)(2026-04-28 から 05-28)|51.3%(279問中143問正解) テクノロジ:54.4% マネジメント:44.7% ストラテジ: 45.9%|
 
 # その他
 色々mdに書きましたが、念の為削除せず取っておいた説明です。
