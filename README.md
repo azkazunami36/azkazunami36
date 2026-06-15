@@ -26,7 +26,8 @@
 |TypeScript|３年以上経験。REST API系、FFmpeg変換並列化、HTML・SCSS・TS統合化クラスなど多くを作成|
 |HTML・CSS|５年以上経験。[ブログサイト](https://miharublog.uk)、ミュージックプレイヤーGUI、ホバーやアニメーション効果などを作成|
 |C|独学で学習中。[音声圧縮ツール](https://github.com/azkazunami36/discordMusicBot/blob/376889da9a18ccb1aecb8df143e199def899dd1c/wasm/PCM16bitto/main.c)作成によりポインタ・数値処理・ビット演算・浮動小数の自作[*1]などを経験|
-|SQL・Java|学校で学習中(未熟)|
+|SQL|独学・学校で勉強中。ログデータの記録をSQLで開始。音楽botのデータ管理に利用予定。|
+|Java|学校で学習中(未熟)|
 |Swift|独学で学習中(未熟)|
 |C#|学習予定|
 
